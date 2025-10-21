@@ -1,7 +1,10 @@
-# 🧠 AR-Agent — An Agentic AI in Augmented Reality
+# 🧠 AR-HOST — AR-Agent Hosting Service
 
-### Bringing AI Agents to the Real World with Godot, n8n, and ARCore
+### Bringing AI Agents to the Real World with Virtual Space
 ---
+
+Check Out [AR Agent](https://github.com/NasheethAhmedA/AR-Agent)
+
 
 ## 🎥 Demo Video
 
